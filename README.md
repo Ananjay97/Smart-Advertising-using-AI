@@ -15,7 +15,7 @@
   <li>Cost per acquisition is low.</li>
 </ul>
 
-<h2> Requirements :</h2>
+<h2> Main Requirements :</h2>
 
 <ul> 
   <li>Python Version - Python 3.5.x to 3.6.x </li>
