@@ -33,7 +33,7 @@
   <li>gender_deploy.prototxt</li>
   <li>gender_net.caffemodel</li>
   <li>Videos to run after Detection</li>
-  <li>Python Scheduler File</li>
+  <li>Python Scheduler File - To keep restarting the program</li>
  </ul>
  
  <h2>Important Notes :</h2>
@@ -42,4 +42,4 @@
   <li>Scheduler is a Seperate file to adjust the timings.</li>
  </ul>
  
- <h3>Since the Project is above 250MB, DOWNLOAD THE BASE FILES FROM <a href="https://github.com/smahesh29/Gender-and-Age-Detection"> here. </a> Remember to download your own videos to play after the Age and Gender Detection is COMPLETE</h3>
+ <h3>Since the Project is above 250MB, DOWNLOAD THE BASE FILES FROM <a href="https://github.com/smahesh29/Gender-and-Age-Detection"> here. </a> Remember to download your own videos to play after the Age and Gender Detection is COMPLETE.</h3>
