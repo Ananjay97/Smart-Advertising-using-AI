@@ -33,5 +33,5 @@
   <li>gender_deploy.prototxt</li>
   <li>gender_net.caffemodel</li>
   <li>Videos to run after Detection</li>
-  <li>Timer.py</li>
+  <li>Python Scheduler File</li>
  </ul>
