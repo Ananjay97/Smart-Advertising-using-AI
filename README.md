@@ -40,8 +40,6 @@
  <ul>
   <li>Changes were made to the Age Ranges and its 'Calling' Sequence to fit the idea of the project.</li>
   <li>Scheduler is a Seperate file to adjust the timings.</li>
-  
-  <p> To view only the Code for Age and Gender Recognition, Click <a href="https://github.com/smahesh29/Gender-and-Age-Detection"> here. </a>  </p>
-  
-  
  </ul>
+ 
+ <h3>Since the Project is above 250MB, DOWNLOAD THE BASE FILES FROM <a href="https://github.com/smahesh29/Gender-and-Age-Detection"> here. </a> Remember to download your own videos to play after the Age and Gender Detection is COMPLETE</h3>
