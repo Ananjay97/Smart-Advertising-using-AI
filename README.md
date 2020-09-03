@@ -41,7 +41,7 @@
   <li>Changes were made to the Age Ranges and its 'Calling' Sequence to fit the idea of the project.</li>
   <li>Scheduler is a Seperate file to adjust the timings.</li>
   
-  <p> To view only the code for Age and Gender Recognition refer <a href="https://github.com/smahesh29/Gender-and-Age-Detection"> here. </a>  </p>
+  <p> To view only <a href="https://github.com/smahesh29/Gender-and-Age-Detection"> here. </a>  </p>
   
   
  </ul>
