@@ -9,7 +9,7 @@ from pytz import utc
 
 def job():
     print("LAUNCHING DETECTION")
-    call(['python', 'C:/Users/ananj/PycharmProjects/Clg/main.py'])
+    call(['python', 'C:/Users/ananj/PycharmProjects/Clg/main.py']) # Place your 'main.py' location here.
 
 
 if __name__ == '__main__':
