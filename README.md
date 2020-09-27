@@ -1,4 +1,4 @@
-# SMART ADVERTISING USING AGE AND GENDER RECOGNITION
+# :milky_way: SMART ADVERTISING USING AGE AND GENDER RECOGNITION :milky_way:
 
 ### This project is aimed at developing a System application to perform targeted advertising in real life rather than on the internet. Some features of this system will be Detecting the face , identifying the age and gender of a person and then displaying an ad based on that information. Targeted ads tends to produce more influence than conventional ads; therefore by using this System, advertisers can have an edge both online and offline.
 
@@ -43,3 +43,10 @@
  </ul>
  
  <h3>Since the Project is above 250MB, DOWNLOAD THE BASE FILES FROM <a href="https://github.com/smahesh29/Gender-and-Age-Detection"> here. </a> Remember to download your own videos to play after the Age and Gender Detection is COMPLETE.</h3>
+
+
+
+<p> :cyclone: A new simpler and better version of the timer to restart the main program after it ends has been deposited, refer v2_timer.py :cyclone:</p>
+
+
+
