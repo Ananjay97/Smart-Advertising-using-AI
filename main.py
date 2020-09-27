@@ -83,7 +83,7 @@ while cv2.waitKey() < 0:
                         for j in ageList:
                             if (j == age):
                                 if (age == '(0-2)' or age == '(4-6)' or age == '(8-12)'):
-                                    cap = capture = cv2.VideoCapture('Mvideo/child.mp4')  // Place your video location here //
+                                    cap = capture = cv2.VideoCapture('Mvideo/child.mp4')  # Place your video location here 
                                     while (cap.isOpened()):
                                         ret, frame = cap.read()
 
@@ -107,7 +107,7 @@ while cv2.waitKey() < 0:
                                     cv2.destroyAllWindows()
 
                                 elif (age == '(25-32)'):
-                                    cap = capture = cv2.VideoCapture('Mvideo/adult.mp4')  // Place your video location here //
+                                    cap = capture = cv2.VideoCapture('Mvideo/adult.mp4')  # Place your video location here
                                     while (cap.isOpened()):
                                         ret, frame = cap.read()
 
@@ -119,7 +119,7 @@ while cv2.waitKey() < 0:
                                     cv2.destroyAllWindows()
 
                                 elif (age == '(38-43)'):
-                                    cap = capture = cv2.VideoCapture('Mvideo/middle.mp4')  // Place your video location here //
+                                    cap = capture = cv2.VideoCapture('Mvideo/middle.mp4')  # Place your video location here
                                     while (cap.isOpened()):
                                         ret, frame = cap.read()
 
@@ -131,7 +131,7 @@ while cv2.waitKey() < 0:
                                     cv2.destroyAllWindows()
 
                                 elif (age == '(48-53)' or age == '(60-100)'):
-                                    cap = capture = cv2.VideoCapture('Mvideo/old.mp4')  // Place your video location here //
+                                    cap = capture = cv2.VideoCapture('Mvideo/old.mp4')  # Place your video location here
                                     while (cap.isOpened()):
                                         ret, frame = cap.read()
 
@@ -146,7 +146,7 @@ while cv2.waitKey() < 0:
                         for j in ageList:
                             if (j == age):
                                 if (age == '(0-2)' or age == '(4-6)' or age == '(8-12)'):
-                                    cap = capture = cv2.VideoCapture('Fvideo/fchild.mp4')  // Place your video location here //
+                                    cap = capture = cv2.VideoCapture('Fvideo/fchild.mp4')  # Place your video location here
                                     while (cap.isOpened()):
                                         ret, frame = cap.read()
 
@@ -158,7 +158,7 @@ while cv2.waitKey() < 0:
                                     cv2.destroyAllWindows()
 
                                 elif (age == '(15-22)'):
-                                    cap = capture = cv2.VideoCapture('Fvideo/fteen.mp4')  // Place your video location here //
+                                    cap = capture = cv2.VideoCapture('Fvideo/fteen.mp4')  # Place your video location here
                                     while (cap.isOpened()):
                                         ret, frame = cap.read()
 
@@ -170,7 +170,7 @@ while cv2.waitKey() < 0:
                                     cv2.destroyAllWindows()
 
                                 elif (age == '(25-32)'):
-                                    cap = capture = cv2.VideoCapture('Fvideo/fadult.mp4')  // Place your video location here //
+                                    cap = capture = cv2.VideoCapture('Fvideo/fadult.mp4')  # Place your video location here
                                     while (cap.isOpened()):
                                         ret, frame = cap.read()
 
@@ -182,7 +182,7 @@ while cv2.waitKey() < 0:
                                     cv2.destroyAllWindows()
 
                                 elif (age == '(38-43)'):
-                                    cap = capture = cv2.VideoCapture('Fvideo/fmiddle.mp4')  // Place your video location here //
+                                    cap = capture = cv2.VideoCapture('Fvideo/fmiddle.mp4')  # Place your video location here
                                     while (cap.isOpened()):
                                         ret, frame = cap.read()
 
@@ -194,7 +194,7 @@ while cv2.waitKey() < 0:
                                     cv2.destroyAllWindows()
 
                                 elif (age == '(48-53)' or age == '(60-100)'):
-                                    cap = capture = cv2.VideoCapture('Fvideo/fold.mp4')  // Place your video location here //
+                                    cap = capture = cv2.VideoCapture('Fvideo/fold.mp4')  # Place your video location here
                                     while (cap.isOpened()):
                                         ret, frame = cap.read()
 
