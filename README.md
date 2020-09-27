@@ -1,4 +1,4 @@
-# :milky_way: SMART ADVERTISING USING AGE AND GENDER RECOGNITION 
+# SMART ADVERTISING USING AGE AND GENDER RECOGNITION 
 
 ### This project is aimed at developing a System application to perform targeted advertising in real life rather than on the internet. Some features of this system will be Detecting the face , identifying the age and gender of a person and then displaying an ad based on that information. Targeted ads tends to produce more influence than conventional ads; therefore by using this System, advertisers can have an edge both online and offline.
 
